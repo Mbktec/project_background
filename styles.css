@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+   
+    height: 100vh;
+    
+}
+.inputs {
+    margin-left: 10px;
+}
+
+.in-vid {
+    width: 20%;
+    text-align: center;
+
+}
+.inputs{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  
+}
+h5{
+    letter-spacing: 4px;
+    text-align: center;
+    
+}
+h1{
+    letter-spacing: 10px;
+    text-align: center;
+}
